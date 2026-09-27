@@ -1,0 +1,9 @@
+tensorflow>=2.16
+numpy
+pandas
+scikit-learn
+matplotlib
+Pillow
+shap>=0.44          # used for the DeepLIFT explainer (DeepExplainer)
+pytest>=7.0
+pytest-cov          # optional, for coverage reports
