@@ -5,7 +5,7 @@ pipeline covering: multi-architecture transfer learning, class-imbalance
 handling, hyperparameter tuning, fine-tuning, Grad-CAM, DeepLIFT, and a full
 unit test suite.
 
-To run this project, you will need to seperately download the CBIS-DDSM dataset. The result should be a folder named "cbis-ddsm".
+To run this project, you will need to seperately download the CBIS-DDSM dataset. This should be added as a folder named "cbis-ddsm".
 
 ## Project layout
 
